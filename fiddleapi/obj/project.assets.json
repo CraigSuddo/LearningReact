@@ -3646,11 +3646,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/craig/Documents/Git/fiddleapi/fiddleapi.csproj",
+      "projectUniqueName": "/home/craig/Documents/LearningReact/fiddleapi/fiddleapi.csproj",
       "projectName": "fiddleapi",
-      "projectPath": "/home/craig/Documents/Git/fiddleapi/fiddleapi.csproj",
+      "projectPath": "/home/craig/Documents/LearningReact/fiddleapi/fiddleapi.csproj",
       "packagesPath": "/home/craig/.nuget/packages/",
-      "outputPath": "/home/craig/Documents/Git/fiddleapi/obj/",
+      "outputPath": "/home/craig/Documents/LearningReact/fiddleapi/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/craig/.nuget/NuGet/NuGet.Config"

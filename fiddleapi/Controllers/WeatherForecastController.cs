@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 
 namespace fiddleapi.Controllers
 {
-    [Authorize]
+    //[Authorize]
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
